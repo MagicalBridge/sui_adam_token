@@ -1,7 +1,7 @@
 # Sui Move 项目忽略文件
 
 # 构建输出
-build/**
+build/*
 *.bytecode
 
 # Move 依赖和缓存
